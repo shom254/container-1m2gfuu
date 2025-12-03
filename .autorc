@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "shom254",
+  "repo": "container-1m2gfuu",
+  "name": "shom254",
+  "email": "shom.wong254@gmail.com",
+}
